@@ -23,7 +23,7 @@ else
     }
     else if(operator == '-')
     {
-        result == first_operand - second_operand;
+        result = first_operand - second_operand;
     }
     else if(operator == '*')
     {
